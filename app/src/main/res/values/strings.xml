@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Monitor Kondisi Hewan</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB8qPzeo5KwT35lbPpTdzQt5VuJ6l_HtaM</string>
+</resources>
